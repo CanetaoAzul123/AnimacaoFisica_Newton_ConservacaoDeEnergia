@@ -1,0 +1,204 @@
+✳️FÍSICO ESCOLHIDO: ISAAC NEWTON
+Narração: Isaac Newton por suas importantes contribuições para a ciência e, principalmente, para a Física.
+Newton formulou as três leis do movimento e a Lei da Gravitação Universal, estabelecendo bases fundamentais para a mecânica clássica.
+Embora não tenha formulado diretamente a Lei da Conservação da Energia, seus estudos sobre força, movimento e trabalho contribuíram para o desenvolvimento dos conceitos que posteriormente deram origem à compreensão da energia e de sua conservação.
+
+Elementos visuais:
+Foto/ilustração de Isaac Newton; Período histórico;
+Elementos relacionados à Física etc.
+
+🔄Transição
+
+✳️FENÔMENO FÍSICO: CONSERVAÇÃO DA ENERGIA
+Visual
+Um objeto parado no ponto mais alto de uma rampa em formato de U, prestes a começar a descer.
+
+Narração: Quando um objeto está no ponto mais alto da rampa, ele possui energia.
+Mas o que acontece com essa energia quando ele começa a descer?
+
+Elementos visuais
+Rampa em formato de U; Objeto parado no ponto mais alto; Seta indicando a altura h.
+
+🔄Transição
+
+✳️O QUE É ENERGIA?
+Visual
+Aparecem diferentes situações rapidamente:
+
+Um objeto em movimento;
+Um objeto em determinada altura;
+Uma usina.
+
+Narração: Energia é a capacidade de produzir transformações.
+Ela pode se apresentar de diferentes formas e também pode ser transformada de uma forma em outra.
+
+🔄Transição
+
+✳️ENERGIA POTENCIAL GRAVITACIONAL
+
+Visual
+Volta para o objeto parado no ponto mais alto da rampa em formato de U.
+
+Narração: No ponto mais alto, o objeto possui energia potencial gravitacional, relacionada à sua altura em relação ao solo.
+
+Aparece na tela
+Ep = m · g · h
+
+Depois, cada variável aparece:
+m = massa;
+g = aceleração da gravidade;
+h = altura.
+
+🔄Transição
+
+✳️ENERGIA CINÉTICA
+Visual
+O objeto descendo pela rampa e aumentando sua velocidade.
+
+Narração: À medida que o objeto desce, sua energia potencial gravitacional diminui.
+Ao mesmo tempo, sua velocidade aumenta e sua energia cinética cresce.
+
+Aparece na tela
+Ec = m · v² / 2
+
+Depois, aparece uma barra de energia:
+
+No topo
+
+Energia potencial 🟦🟦🟦🟦🟦
+Energia cinética 🟨
+Na descida
+
+Energia potencial 🟨🟨🟨🟨🟨
+Energia cinética 🟦
+Transição
+
+✳️A TRANSFORMAÇÃO
+Visual
+
+O objeto descendo pela rampa, com uma representação gráfica mostrando a transformação da energia.
+
+Narração: Nesse processo, não significa que a energia desapareceu.
+Ela está sendo transformada de energia potencial gravitacional em energia cinética.
+
+Aparece na tela
+
+Em = Ep + Ec
+
+ou
+
+Em = m · g · h + m · v² / 2
+
+🔄Transição
+
+CONSERVAÇÃO DA ENERGIA MECÂNICA
+Narração: Se desprezarmos o atrito e outras perdas, a energia mecânica total permanece constante.
+A energia apenas muda de uma forma para outra.
+
+Visual
+
+Dividir a tela em três partes.
+
+Lado esquerdo — NO TOPO
+
+Ep = m · g · h
+
+Ec = 0
+
+Centro — DURANTE A DESCIDA
+
+Em inicial = Em final
+
+Energia potencial ↓
+
+Energia cinética ↑
+
+Lado direito — NO PONTO MAIS BAIXO
+
+Ep ≈ 0
+
+Ec = m · v² / 2
+
+🔄Transição
+
+✳️EXEMPLO NUMÉRICO
+Exemplo
+Um objeto de 500 kg parte do repouso de uma altura de 20 metros. Desprezando o atrito, qual será sua velocidade ao chegar ao ponto mais baixo?
+
+Considerando g = 9,8 m/s²
+
+Início
+
+Em inicial = m · g · h
+
+Final
+
+Ec final = m · v² / 2
+
+Como a energia se conserva
+
+m · g · h = m · v² / 2
+
+Substituindo
+
+500 · 9,8 · 20 = 500 · v² / 2
+
+Simplificando
+
+v² = 392
+
+v = 19,8 m/s
+
+Visual
+
+O objeto descendo pela rampa em formato de U até chegar ao ponto mais baixo.
+
+🔄Transição
+
+✳️MAS E O ATRITO?
+Narração: Na situação real, porém, existem forças como o atrito e a resistência do ar.
+Nesse caso, parte da energia mecânica é transformada principalmente em energia térmica e sonora.
+
+Visual
+
+Aparece o mesmo objeto descendo pela rampa, agora com o atrito representado por uma força contrária ao movimento.
+
+Visualmente
+
+Energia mecânica → Energia térmica → Energia sonora
+
+Narração final: A energia total não desaparece.
+
+🔄Transição
+
+✳️ONDE ENCONTRAMOS ISSO?
+Narração: O princípio da conservação da energia está presente em diversas situações do nosso cotidiano e em sistemas utilizados para produzir e transformar energia.
+
+Podem aparecer rapidamente
+
+Hidrelétrica
+Energia potencial da água → energia cinética → energia elétrica
+
+Pêndulo
+Energia potencial ↔ energia cinética
+
+Objeto em uma rampa
+Energia potencial ↔ energia cinética
+
+Queda de um objeto
+Energia potencial → energia cinética
+
+🔄Transição
+
+CONCLUSÃO
+Narração: Portanto, a energia não é criada nem destruída.
+Ela pode ser transferida ou transformada.
+Na conservação da energia mecânica, quando não existem perdas, a soma das energias potencial e cinética permanece constante.
+
+Aparece na tela
+
+Etotal = constante
+
+🔄Transição
+
+✳️CRÉDITOS
