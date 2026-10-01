@@ -15,6 +15,9 @@ Em um sistema ideal, livre da resistência do ar e de atrito, a energia mecânic
 
 Nesse cenário, quando um corpo desce uma ladeira, sua energia potencial gravitacional diminui e converte-se totalmente em energia cinética, resultando em ganho de velocidade. Contudo, em situações reais, forças dissipativas atuam sobre o sistema. O atrito e a resistência do ar transformam parte da energia mecânica em energia térmica (calor) e sonora. Apesar da energia mecânica não se conservar perfeitamente nesse caso, a quantidade de energia total do universo permanece rigorosamente constante.
 
+**Link para acessar nosso vídeo do projeto, completo e finalizado, no canal da disciplina de Física I:** https://youtu.be/PbwBnJnB93I?si=DFPI10VqU5QNNzOc
+
+**Link para acessar diretamente o canal da disciplina de Física I:** https://youtube.com/@fisicanatela?si=w0P-RSh23OQG6SjU
 # INTEGRANTES
 - Emanuel Gomes Silva - Matrícula: 202610075911
 - Francisco Roballo Florido - Matrícula: 202520657111
